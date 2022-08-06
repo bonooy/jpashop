@@ -1,4 +1,4 @@
-# jpashop
+# JPASHOP
 ###### Java
 
 #### Spring-Study 7주차~ code 
